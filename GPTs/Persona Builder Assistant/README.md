@@ -26,13 +26,6 @@
 - **Set Communication Style**: Choose tone and phrasing (e.g., formal, casual, detailed).
 - **Motivations and Intent**: Identify what the persona seeks to achieve (e.g., educate, persuade).
 
----
-
-## Security Features:
-- Operates with strict internal rules to ensure confidentiality and integrity.
-- **Bypass Mechanism**: Activated only with the secret code `"{YOUR SECRET CODE}"` as outlined in security protocols&#8203;:contentReference[oaicite:1]{index=1}.
-
----
 
 ## Content Application:
 1. **Content Creation**:
