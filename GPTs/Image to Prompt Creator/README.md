@@ -8,7 +8,8 @@ Step 1. Upload an image
 Step 2. Ask AI to analyze the image and give you a prompt.
 Step 3. Use the provided prompt to generate a new image inspired by the one you uploaded
 
-Alternatively, you can use our ready-made "[Image to Prompt Creator](https://chatgpt.com/g/g-j7JqI39de-image-to-prompt-creator)" custom GPT or build your own following the instructions below.
+Alternatively, you can use our ready-made "[Image to Prompt Creator](https://chatgpt.com/g/g-j7JqI39de-image-to-prompt-creator)" custom GPT (may require paid plan) 
+or build your own following the instructions below.
 
 ---
 ### Build Your Advanced AI Assistant
