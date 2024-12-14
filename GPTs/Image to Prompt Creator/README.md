@@ -26,6 +26,7 @@ the AI Assistant can deliver nuanced prompts that capture its essence, making it
 6. **Progressive Elaboration**: Builds detailed descriptions progressively for greater customization.
 7. **Follow-Up Adjustments**: Refines outputs based on user feedback or additional details.
 
+### Read the Blog
 [Read the Full Article on pragmatista.com](https://www.pragmatista.com/blog/recreate-any-image-or-photo-using-ai)
 
 
