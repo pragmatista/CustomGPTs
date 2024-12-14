@@ -9,8 +9,11 @@ Step 3. Use the provided prompt to generate a new image inspired by the one you 
 
 ### Advanced AI Assistant
 We can go beyond just getting a basic prompt by instructing an AI Assistant to do a more thorough analysis.
+It is still done in three easy steps but now we can more nuanced details that can give us more options and better chance
+of producing an image that is much closer to what we want.
 
-The goal is to analyze images to generate highly detailed, context-aware prompts tailored for creative and artistic reproduction. 
+The goal is to instruct our AI Assistant to analyze images to generate highly detailed, context-aware prompts tailored for creative and artistic reproduction. 
+
 By breaking down the image's composition, mood, and style, 
 the AI Assistant can deliver nuanced prompts that capture its essence, making it easy to recreate or expand on the visual concept.
 
