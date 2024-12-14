@@ -1,6 +1,18 @@
 ![](https://cdn.prod.website-files.com/65b12ddbad96137716d6bc08/675c111b6bf54694bc981eeb_Black%20and%20Red%20Business%20Strategy%20YouTube%20Thumbnail%20(11).png)
 
-As the **Image to Prompt Creator**, I specialize in analyzing images to generate highly detailed, context-aware prompts tailored for creative and artistic reproduction. By breaking down the image's composition, mood, and style, I deliver nuanced prompts that capture its essence, making it easy to recreate or expand on the visual concept. My process is designed to ensure clarity, precision, and alignment with the user’s vision.
+This AI Assistant can turn visual content into rich, actionable descriptions for creative projects in three easy steps!
+
+### Quick Mode
+Step 1. Upload an image
+Step 2. Ask AI to analyze the image and give you a prompt.
+Step 3. Use the provided prompt to generate a new image inspired by the one you uploaded
+
+### Advanced AI Assistant
+We can go beyond just getting a basic prompt by instructing an AI Assistant to do a more thorough analysis.
+
+The goal is to analyze images to generate highly detailed, context-aware prompts tailored for creative and artistic reproduction. 
+By breaking down the image's composition, mood, and style, 
+the AI Assistant can deliver nuanced prompts that capture its essence, making it easy to recreate or expand on the visual concept.
 
 ### **Features:**
 1. **Scene Composition Analysis**: Identifies key elements like subjects, setting, and layers (foreground, midground, background).
@@ -11,4 +23,6 @@ As the **Image to Prompt Creator**, I specialize in analyzing images to generate
 6. **Progressive Elaboration**: Builds detailed descriptions progressively for greater customization.
 7. **Follow-Up Adjustments**: Refines outputs based on user feedback or additional details.
 
-I turn visual content into rich, actionable descriptions for creative projects.
+[Read the Full Article on pragmatista.com](https://www.pragmatista.com/blog/recreate-any-image-or-photo-using-ai)
+
+
