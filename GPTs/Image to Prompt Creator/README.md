@@ -3,12 +3,11 @@
 This AI Assistant can turn visual content into rich, actionable descriptions for creative projects in three easy steps!
 
 ---
-### Quick Mode
-Step 1. Upload an image
-Step 2. Ask AI to analyze the image and give you a prompt.
-Step 3. Use the provided prompt to generate a new image inspired by the one you uploaded
-
-Alternatively, if you have a paid ChatGPT plan, you can access our ready-to-go "[Image to Prompt Creator](https://chatgpt.com/g/g-j7JqI39de-image-to-prompt-creator)" custom GPT
+### Quick Method
+* Step 1. Upload an image
+* Step 2. Ask AI to analyze the image and give you a prompt.
+* Step 3. Use the provided prompt to generate a new image inspired by the one you uploaded
+* Alternatively, if you have a paid ChatGPT plan, you can access our ready-to-go [Image to Prompt Creator](https://chatgpt.com/g/g-j7JqI39de-image-to-prompt-creator) custom GPT
 or build your own following the instructions below.
 
 ---
