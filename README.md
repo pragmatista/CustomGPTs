@@ -1,7 +1,6 @@
 ![](https://cdn.prod.website-files.com/65b12dafb92f54078e1fab87/6761dcc6e08713b5bdc6f8e4_Build%20Custom%20GPTs%20(10).avif)
 
 
-
 # CustomGPTs
 This repository contains all of my OpenAI custom GPTs with full instructions and implementation steps.
 
