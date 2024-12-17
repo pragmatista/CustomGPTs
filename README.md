@@ -17,27 +17,22 @@ Use these personas to craft consistent, engaging blog posts, social media conten
 
 ---
 
-### [Prompt Builder Helper](https://github.com/pragmatista/CustomGPTs/blob/9df245dd57fa60b2a62a09896ad22e5b30af0cad/GPTs/Persona%20Builder%20Assistant)
+### [Prompt Builder Helper](https://github.com/pragmatista/CustomGPTs/blob/9df245dd57fa60b2a62a09896ad22e5b30af0cad/GPTs/Prompt%20Builder%20Helper)
 The perfect assistant to help you craft and test the perfect prompt.
 
 ---
 
-### [AI Image Prompt Assistant (MadeForFlux)](https://github.com/pragmatista/CustomGPTs/blob/9df245dd57fa60b2a62a09896ad22e5b30af0cad/GPTs/Persona%20Builder%20Assistant)
+### [AI Image Prompt Assistant (MadeForFlux)](https://github.com/pragmatista/CustomGPTs/blob/bd4c72133942f388e99192d4c419bdd98623cdbc/GPTs/AI%20Image%20Prompt%20Assistant%20(MadeForFlux))
 Create perfect image prompts optimized for Flux image models.
 
 ---
 
-### [AI Image Prompt Assistant (MJ)](https://github.com/pragmatista/CustomGPTs/blob/9df245dd57fa60b2a62a09896ad22e5b30af0cad/GPTs/Persona%20Builder%20Assistant)
+### [AI Image Prompt Assistant (MJ)](https://github.com/pragmatista/CustomGPTs/blob/bd4c72133942f388e99192d4c419bdd98623cdbc/GPTs/AI%20Image%20Prompt%20Assistant%20(MJ))
 Create perfect image prompts optimized for MidJourney
 
 ---
 
-### [Photography Prompt Assistant](https://github.com/pragmatista/CustomGPTs/blob/9df245dd57fa60b2a62a09896ad22e5b30af0cad/GPTs/Persona%20Builder%20Assistant)
-Create perfect image prompts optimized for photorealistic images
-
----
-
-### [Image to Prompt Creator](https://github.com/pragmatista/CustomGPTs/blob/9df245dd57fa60b2a62a09896ad22e5b30af0cad/GPTs/Persona%20Builder%20Assistant)
+### [Image to Prompt Creator](https://github.com/pragmatista/CustomGPTs/blob/bd4c72133942f388e99192d4c419bdd98623cdbc/GPTs/Image%20to%20Prompt%20Creator)
 Reverse engineer any image into a useful prompt that you can be customized to your specific needs 
 to generate a stunning image inspired by the original
 
